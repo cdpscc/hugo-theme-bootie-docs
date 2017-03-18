@@ -1,4 +1,4 @@
-window.onload = function() {
+document.addEventListener("DOMContentLoaded", function() {
   var headHeight  = $("nav").height();
   var mainHeight = $("main").height();
   var sideHeight = $("#sidebar").height();
@@ -30,7 +30,7 @@ window.onload = function() {
       }
     });
   }
-}
+});
 
 function resetSidebarPos() {
   var sideNode = $("#sidebar");
