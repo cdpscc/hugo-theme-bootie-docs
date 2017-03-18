@@ -1,3 +1,6 @@
+Custom version of Bootie Docs created for the CDPS code club site.
+
+
 # Bootie Docs
 
 **Bootie Docs** is a simple [hugo](http://gohugo.io/) theme for documentation.  
